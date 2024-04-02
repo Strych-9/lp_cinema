@@ -1,0 +1,1 @@
+<?php echo "./img/1.jpg";?>
